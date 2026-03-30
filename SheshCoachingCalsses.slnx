@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SheshClasses/SheshClasses.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="SheshCoachingCalsses/SheshCoachingCalsses.csproj" Id="2204fcb8-8281-463b-8ed8-60ac95b90098">
+    <Platform Project="x86" />
+  </Project>
+</Solution>
